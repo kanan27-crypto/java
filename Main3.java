@@ -1,3 +1,4 @@
+// Compile with: javac --source 26 Main3.java
 abstract class Employee {
     String name;
     int id;
